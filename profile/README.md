@@ -1,12 +1,12 @@
 # TRACE
 
 **Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning**
-NeurIPS 2026
+(NeurIPS 2026)
 
 Sudip Bhujel, Shanghao Shi, Ruiquan Huang, Ning Zhang, Yang Xiao
 University of Kentucky · Washington University in St. Louis
 
-[Project page](https://trace-gia.github.io/) · [Paper](https://arxiv.org/pdf/2609.30258) · [Code](https://github.com/trace-gia/TRACE)
+[Project page](https://trace-gia.github.io/) · [Paper](https://arxiv.org/pdf/2609.30258) · [Code](https://github.com/sudip-bhujel/TRACE)
 
 ![TRACE overview](https://trace-gia.github.io/static/images/hero.png)
 
