@@ -7,7 +7,7 @@
 
 <sup>1</sup> University of Kentucky &nbsp;&nbsp; <sup>2</sup> Washington University in St. Louis
 
-[Project page](https://sudipbhujel.com.np/r/trace-web?src=trace-rl-gh) · [Paper](https://sudipbhujel.com.np/r/trace-pdf?src=trace-rl-gh) · [Code](https://sudipbhujel.com.np/r/trace-code?src=trace-rl-gh)
+[Project page](https://sudipbhujel.com.np/r/trace-web?src=github) · [Paper](https://sudipbhujel.com.np/r/trace-pdf?src=github) · [Code](https://sudipbhujel.com.np/r/trace-code?src=github)
 
 ![TRACE overview](https://trace-rl.github.io/static/images/hero.png)
 
